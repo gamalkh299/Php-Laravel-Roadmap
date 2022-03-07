@@ -12,7 +12,7 @@
   - More to know before Laravel:
     - MVC design pattern
     - Testing
-    - Preprocessors and posprocessors
+    - Preprocessors and postprocessors
     - REST API's
   - Laravel
 - .**Important note: After finisgin the prerequisites phase, you will need to read a book with any course you take, or maybe the book would be enough**
