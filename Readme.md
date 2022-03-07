@@ -15,8 +15,7 @@
     - Preprocessors and postprocessors
     - REST API's
   - Laravel
-- .**Important note: After finisgin the prerequisites phase, you will need to read a book with any course you take, or maybe the book would be enough**
-- 
+- .**Important note: After finishing the prerequisites phase, you will need to read a book with any course you take, or maybe the book would be enough**
 
 ## Prerequisites
 #### To be ready before starting
