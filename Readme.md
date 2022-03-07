@@ -1,7 +1,7 @@
 
 # IEEE Backend Roadmap
 
-- We will use PHP as a programming language, mysql as a sql engine and Laravel as a framework
+- We will use PHP as a programming language, MySQL as SQL engine and Laravel as a framework
 - The roadmap will contain:
   - Prerequisites:
     - Computer science foundation
