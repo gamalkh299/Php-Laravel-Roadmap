@@ -73,6 +73,7 @@
       - [Atlassian](https://www.atlassian.com/git)
 
     - Books
+      - [Git Notes for Professionals (Free Book)](https://books.goalkicker.com/GitBook/)
       - [Pro Git (Free Book)](https://git-scm.com/book/en/v2)
 
   - Unit testing:
@@ -106,52 +107,53 @@
       - [What's New in PHP 7.4](https://laracasts.com/series/whats-new-in-php-74)
       - [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
       - [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/2)
-    - Books
+
+    - Books:
+      - [Programming PHP, 4th Edition](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
+      - [PHP Notes for Professionals (Free Book)](https://books.goalkicker.com/PHPBook/)
 
   - Database Design:
     - Videos
       - [Aldesoky (Arabic)](https://www.youtube.com/playlist?list=PL37D52B7714788190)
-      - [FreeCodeCamp](https://www.youtube.com/watch?v=ztHopE5Wnpc)
+      - [FreeCodeCamp (English)](https://www.youtube.com/watch?v=ztHopE5Wnpc)
+      - [Database Design on Udemy (English)](https://www.udemy.com/course/database-design-and-management/)]
+    - Books
+      - [Database Design for Mere Mortals](https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0201752840)
 
   - SQL:
     - Videos
       - [FreeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+      - [The New Baghdad MYSQL (Arabic)](https://www.youtube.com/watch?v=Apq8FuGNODM&list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2)
     - Books
+      - [MySQL Notes for Professionals (Free Book)](https://books.goalkicker.com/MySQLBook/)
+      - [Learn SQL (using MySQL) in One Day and Learn It Well](https://www.amazon.com/SQL-Beginners-Hands-Project-Project/dp/1731039662?_encoding=UTF8&qid=1628268685&sr=1-9&linkCode=sl1&tag=solutionsre04-20&linkId=6dfcf2bfc4e95af8907fd157b8e78e2c&language=en_US&ref_=as_li_ss_tl)
 
   - Network basic & HTTP:
-    - Videos
-    - Books
+    - Videos:
+      - [HTTP Crash Course & Exploration from  Traversy Media (English)](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+      - [Ebrahem Hegazy, start with the 15th video (Arabic)](https://www.youtube.com/watch?v=PsdimP_-TKY)
+      - [The Client Server Architecture from The TechCave](https://www.youtube.com/watch?v=L5BlpPU_muY)
+      - [The Client Server Architecture from  Mac OS Pro](https://www.youtube.com/watch?v=Zfmk0GtANNs)
   
   - Problem Solving:
     - ICPC Mansoura Roadmap
       - [Level 0](https://docs.google.com/spreadsheets/d/1nwNw03gRP87ni7-ZH3JJsMGa9bt3URNLGe_osv8zdtM)
       - [Level 1](https://docs.google.com/spreadsheets/d/1lspiEG_XNOeVcMcAl1cpJ3aBldEKkmedVQ-eEdI28sE)
 
-  - Design patterns (Creational and Structural):
-    - Videos
-    - Books
-
   - API
+    - Videos:
+      - [REST API Crash Course - Caleb Curry](https://www.youtube.com/watch?v=qbLc5a9jdXo)
+      - [REST API with PHP - ProgrammingKnowledge](https://www.youtube.com/watch?v=2EJ03wM0erI&list=PLS1QulWo1RIYWjdoEC1WbT8W3XGGWVXfW)
+    - Books:
+      - [API Design](https://www.amazon.com/RESTful-API-Design-API-University-3/dp/1514735164)
+      - [RESTful Web APIs](https://www.oreilly.com/library/view/restful-web-apis/9781449359713/)
+
+  - Design patterns (Creational and Structural):
     - Videos
     - Books
   
   - Laravel
     - Videos
     - Books
-  
-This is from the old roadmap and will be edited later
 
-## Database
-
-#### Your will receive data, make benefit of it then returning another data, so how to store and work with data?
-
-- Database Design:
-  - Book: [Database Design for Mere Mortals](https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0201752840)
-  - Course: [Database Design](https://www.udemy.com/course/database-design-and-management/) (English)
-- SQL (MySQL):
-  - Book: [Learn SQL (using MySQL) in One Day and Learn It Well](https://www.amazon.com/SQL-Beginners-Hands-Project-Project/dp/1731039662?_encoding=UTF8&qid=1628268685&sr=1-9&linkCode=sl1&tag=solutionsre04-20&linkId=6dfcf2bfc4e95af8907fd157b8e78e2c&language=en_US&ref_=as_li_ss_tl)
-  - Course: [The New Baghdad course](https://www.youtube.com/watch?v=Apq8FuGNODM&list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) (Arabic)
-
-## PHP
-
-#### Some intro here
+---
