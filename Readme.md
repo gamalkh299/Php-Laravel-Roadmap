@@ -96,7 +96,7 @@ This is from the old roadmap and will be edited later
 
 ## Database
 
-#### Your will recieve data, make benifit of it then returning another data, so how to store and work with data?
+#### Your will receive data, make benefit of it then returning another data, so how to store and work with data?
 
 - Database Design:
   - Book: [Database Design for Mere Mortals](https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0201752840)
