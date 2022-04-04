@@ -97,7 +97,15 @@
 - ### Topics
 
   - PHP:
-    - Videos
+    - Videos:
+      - [Laracasts](https://laracasts.com/series/php-for-beginners)
+      - [Elzero (Arabic)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
+      - [PHP Laracast](https://laracasts.com/series/php-for-beginners )
+      - [What is new in PHP 7](https://laracasts.com/series/php7-up-and-running)
+      - [What is new in PHP 7.1](https://laracasts.com/series/whats-new-in-php-7-1)
+      - [What's New in PHP 7.4](https://laracasts.com/series/whats-new-in-php-74)
+      - [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
+      - [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/2)
     - Books
 
   - Database Design:
