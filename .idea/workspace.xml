@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0949f1ef-b0c8-4650-a675-8dff4a8b30b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Resources Collecting.md" afterDir="false" />
+    <list default="true" id="0949f1ef-b0c8-4650-a675-8dff4a8b30b5" name="Changes" comment="fix woe">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources Collecting.md" beforeDir="false" afterPath="$PROJECT_DIR$/Resources Collecting.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +44,23 @@
       <workItem from="1647807028318" duration="2374000" />
       <workItem from="1648943820654" duration="980000" />
       <workItem from="1649012519773" duration="46000" />
-      <workItem from="1649031507814" duration="3587000" />
+      <workItem from="1649031507814" duration="7178000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Resources For Some Sections">
+      <created>1649035401168</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649035401168</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Resources For Some Sections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Resources For Some Sections" />
   </component>
 </project>
