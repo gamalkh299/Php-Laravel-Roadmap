@@ -92,6 +92,45 @@
 
 ---
 
+## Level 1
+
+- ### Topics
+
+  - PHP:
+    - Videos
+    - Books
+
+  - Database Design:
+    - Videos
+      - [Aldesoky (Arabic)](https://www.youtube.com/playlist?list=PL37D52B7714788190)
+      - [FreeCodeCamp](https://www.youtube.com/watch?v=ztHopE5Wnpc)
+
+  - SQL:
+    - Videos
+      - [FreeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+    - Books
+
+  - Network basic & HTTP:
+    - Videos
+    - Books
+  
+  - Problem Solving:
+    - ICPC Mansoura Roadmap
+      - [Level 0](https://docs.google.com/spreadsheets/d/1nwNw03gRP87ni7-ZH3JJsMGa9bt3URNLGe_osv8zdtM)
+      - [Level 1](https://docs.google.com/spreadsheets/d/1lspiEG_XNOeVcMcAl1cpJ3aBldEKkmedVQ-eEdI28sE)
+
+  - Design patterns (Creational and Structural):
+    - Videos
+    - Books
+
+  - API
+    - Videos
+    - Books
+  
+  - Laravel
+    - Videos
+    - Books
+  
 This is from the old roadmap and will be edited later
 
 ## Database
