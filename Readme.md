@@ -67,6 +67,13 @@
       - [The Client Server Architecture from The TechCave](https://www.youtube.com/watch?v=L5BlpPU_muY)
       - [The Client Server Architecture from  Mac OS Pro](https://www.youtube.com/watch?v=Zfmk0GtANNs)
 
+  - UML Diagram:
+    - Videos
+      - [Freecodecamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
+
+    - Books
+      - [UML Distilled 3rd Ed](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
+
 - ### Tools
 
   - Code Editors:
@@ -118,14 +125,6 @@
       - [Programming PHP, 4th Edition](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
       - [PHP Notes for Professionals (Free Book)](https://books.goalkicker.com/PHPBook/)
 
-  - Database Design:
-    - Videos
-      - [Aldesoky (Arabic)](https://www.youtube.com/playlist?list=PL37D52B7714788190)
-      - [FreeCodeCamp (English)](https://www.youtube.com/watch?v=ztHopE5Wnpc)
-      - [Database Design on Udemy (English)](https://www.udemy.com/course/database-design-and-management/)]
-    - Books
-      - [Database Design for Mere Mortals](https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0201752840)
-
   - SQL:
     - Videos
       - [FreeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY)
@@ -133,11 +132,14 @@
     - Books
       - [MySQL Notes for Professionals (Free Book)](https://books.goalkicker.com/MySQLBook/)
       - [Learn SQL (using MySQL) in One Day and Learn It Well](https://www.amazon.com/SQL-Beginners-Hands-Project-Project/dp/1731039662?_encoding=UTF8&qid=1628268685&sr=1-9&linkCode=sl1&tag=solutionsre04-20&linkId=6dfcf2bfc4e95af8907fd157b8e78e2c&language=en_US&ref_=as_li_ss_tl)
-  
-  - Problem Solving:
-    - ICPC Mansoura Roadmap
-      - [Level 0](https://docs.google.com/spreadsheets/d/1nwNw03gRP87ni7-ZH3JJsMGa9bt3URNLGe_osv8zdtM)
-      - [Level 1](https://docs.google.com/spreadsheets/d/1lspiEG_XNOeVcMcAl1cpJ3aBldEKkmedVQ-eEdI28sE)
+
+  - Database Design:
+    - Videos
+      - [Aldesoky (Arabic)](https://www.youtube.com/playlist?list=PL37D52B7714788190)
+      - [FreeCodeCamp (English)](https://www.youtube.com/watch?v=ztHopE5Wnpc)
+      - [Database Design on Udemy (English)](https://www.udemy.com/course/database-design-and-management/)]
+    - Books
+      - [Database Design for Mere Mortals](https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0201752840)
 
   - API
     - Videos:
@@ -149,11 +151,21 @@
 
   - Design patterns (Creational and Structural):
     - Videos
+      - [Design Patterns on Coursera (creational and structural only)](https://www.coursera.org/learn/design-patterns?specialization=software-design-architecture)
+      - [Design Patterns in PHP -arabic ](https://www.youtube.com/playlist?list=PLdYYj2XLw5BnpInmR103TyVwFd_CLI6IS)
+      - [Design Patterns in PHP - Arabic - Moahmed yehya ](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC)
+
     - Books
+      - [Design Patterns in PHP - Book ](https://drive.google.com/file/d/1BmXIGt6CaMig1qXiqETQI5y3wsmh4N1z/view)
+
+    - ِArticles
+      - [Design Patterns in PHP - good Resource as documentation ](https://refactoring.guru/design-patterns)
   
   - Laravel
     - Videos
+      - [Laracasts laravel 8](https://laracasts.com/series/laravel-8-from-scratch)
     - Books
+      - [Up & Running 2nd Edition](https://www.oreilly.com/library/view/laravel-up/9781492041207/)
 
 - ### Tools
 
