@@ -21,15 +21,32 @@
 
 ---
 
+## Prerequisites
+
+- Programming with C# (Basics):
+  - Videos
+    - [C# for biggeners hassouna academy (Arabic)](https://www.youtube.com/watch?v=q7_qSBw8FEY&list=PLHIfW1KZRIfm8nQAoJF5u2aV43tMRAAmr)
+    - [C# Crash course from CodeCademy (English)](https://www.youtube.com/watch?v=GhQdlIFylQ8)
+    - [C# Crash course with Mosh](https://www.youtube.com/watch?v=GhQdlIFylQ8)
+
+- OOP (in C#):
+  - Videos
+    - [Hassouna Academy (Arabic)](https://www.youtube.com/watch?v=KAWY-8wFKRc&list=PLHIfW1KZRIfl6UP-PlUli03pokSc4af2S)
+    - [Barmej (Arabic)](https://www.youtube.com/watch?v=rModMTu7_LY&list=PLkIliLHi5M4KANvzDWXsbfn52Z7vEBU-n)
+    - [The new Baghdad](https://www.youtube.com/watch?v=N3CXL3IStfY&list=PLF8OvnCBlEY0UEgX-PDJduL5Tyv4Estam)
+  - Books:
+    - [Beginning C# Object-Oriented Programming, Second Edition](https://www.oreilly.com/library/view/beginning-c-object-oriented/9781430249351/)
+  
+- CS50:
+  - Videos
+    - [CS50 on EDX (English)](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+    - [CS50 on Youtube (Arabic)](https://www.youtube.com/watch?v=pSc6RGEBLAQ&list=PLknwEmKsW8OvMsFbU9zo8oJCprAsgc4LO)
+
+---
+
 ## Level 0
 
 - ### Topics
-
-  - Programming with C# (Basics):
-    - Videos
-      - [C# for biggeners hassouna academy (Arabic)](https://www.youtube.com/watch?v=q7_qSBw8FEY&list=PLHIfW1KZRIfm8nQAoJF5u2aV43tMRAAmr)
-      - [C# Crash course from CodeCademy (English)](https://www.youtube.com/watch?v=GhQdlIFylQ8)
-      - [C# Crash course with Mosh](https://www.youtube.com/watch?v=GhQdlIFylQ8)
 
   - HTML/CSS/Javascript
     - Videos
@@ -37,19 +54,18 @@
       - [Elzero CSS course 2021 (Arabic)](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
       - [Elzero Javascript course 2021 (English)](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 
-  - OOP (in C#):
-    - Videos
-      - [Hassouna Academy (Arabic)](https://www.youtube.com/watch?v=KAWY-8wFKRc&list=PLHIfW1KZRIfl6UP-PlUli03pokSc4af2S)
-      - [Barmej (Arabic)](https://www.youtube.com/watch?v=rModMTu7_LY&list=PLkIliLHi5M4KANvzDWXsbfn52Z7vEBU-n)
-      - [The new Baghdad](https://www.youtube.com/watch?v=N3CXL3IStfY&list=PLF8OvnCBlEY0UEgX-PDJduL5Tyv4Estam)
-    - Books:
-      - [Beginning C# Object-Oriented Programming, Second Edition](https://www.oreilly.com/library/view/beginning-c-object-oriented/9781430249351/)
-
   - Data Structures (beginner):
     - Videos
       - [Adel Naseem (Arabic)](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
     - Books
       - [Introductino to Algorithms (Chapters 10 to 14 only)](https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition)
+
+  - Network basic & HTTP:
+    - Videos:
+      - [HTTP Crash Course & Exploration from  Traversy Media (English)](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+      - [Ebrahem Hegazy, start with the 15th video (Arabic)](https://www.youtube.com/watch?v=PsdimP_-TKY)
+      - [The Client Server Architecture from The TechCave](https://www.youtube.com/watch?v=L5BlpPU_muY)
+      - [The Client Server Architecture from  Mac OS Pro](https://www.youtube.com/watch?v=Zfmk0GtANNs)
 
 - ### Tools
 
@@ -76,14 +92,6 @@
       - [Git Notes for Professionals (Free Book)](https://books.goalkicker.com/GitBook/)
       - [Pro Git (Free Book)](https://git-scm.com/book/en/v2)
 
-  - Unit testing:
-    - Videos
-      - [Software Quality Academy (Arabic)](https://www.youtube.com/watch?v=FHVOvMiZcAk&list=PLQUxWr2rTswlHvRSphLEB0KU72w6dZzbq)
-      - [FizzixGeke](https://www.youtube.com/watch?v=5QGs2DwlR-A&list=PLD9spk7mcCaVGpGjXSfQJJci8G7nwVF4O)
-
-    - Books
-      - [Unit Testing Principles, Practices, and Patterns by Vladimir Khorikov](https://www.oreilly.com/library/view/unit-testing-principles/9781617296277/)
-
 - ### Extra Reading
 
   - Computer archeticture:
@@ -102,8 +110,6 @@
       - [Laracasts](https://laracasts.com/series/php-for-beginners)
       - [Elzero (Arabic)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
       - [PHP Laracast](https://laracasts.com/series/php-for-beginners )
-      - [What is new in PHP 7](https://laracasts.com/series/php7-up-and-running)
-      - [What is new in PHP 7.1](https://laracasts.com/series/whats-new-in-php-7-1)
       - [What's New in PHP 7.4](https://laracasts.com/series/whats-new-in-php-74)
       - [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
       - [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/2)
@@ -127,13 +133,6 @@
     - Books
       - [MySQL Notes for Professionals (Free Book)](https://books.goalkicker.com/MySQLBook/)
       - [Learn SQL (using MySQL) in One Day and Learn It Well](https://www.amazon.com/SQL-Beginners-Hands-Project-Project/dp/1731039662?_encoding=UTF8&qid=1628268685&sr=1-9&linkCode=sl1&tag=solutionsre04-20&linkId=6dfcf2bfc4e95af8907fd157b8e78e2c&language=en_US&ref_=as_li_ss_tl)
-
-  - Network basic & HTTP:
-    - Videos:
-      - [HTTP Crash Course & Exploration from  Traversy Media (English)](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
-      - [Ebrahem Hegazy, start with the 15th video (Arabic)](https://www.youtube.com/watch?v=PsdimP_-TKY)
-      - [The Client Server Architecture from The TechCave](https://www.youtube.com/watch?v=L5BlpPU_muY)
-      - [The Client Server Architecture from  Mac OS Pro](https://www.youtube.com/watch?v=Zfmk0GtANNs)
   
   - Problem Solving:
     - ICPC Mansoura Roadmap
@@ -155,5 +154,15 @@
   - Laravel
     - Videos
     - Books
+
+- ### Tools
+
+  - Unit testing:
+    - Videos
+      - [Software Quality Academy (Arabic)](https://www.youtube.com/watch?v=FHVOvMiZcAk&list=PLQUxWr2rTswlHvRSphLEB0KU72w6dZzbq)
+      - [FizzixGeke](https://www.youtube.com/watch?v=5QGs2DwlR-A&list=PLD9spk7mcCaVGpGjXSfQJJci8G7nwVF4O)
+
+    - Books
+      - [Unit Testing Principles, Practices, and Patterns by Vladimir Khorikov](https://www.oreilly.com/library/view/unit-testing-principles/9781617296277/)
 
 ---
