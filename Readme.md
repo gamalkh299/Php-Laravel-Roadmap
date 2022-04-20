@@ -180,3 +180,27 @@
       - [Unit Testing Principles, Practices, and Patterns by Vladimir Khorikov](https://www.oreilly.com/library/view/unit-testing-principles/9781617296277/)
 
 ---
+
+## Level 2
+
+- ### Topics
+
+  - Advanced Data structures:
+    - Books
+    - Videos
+
+  - Design Patterns (Behavioral)
+    - Books
+    - Videos
+  
+  - Archetecture & Microservices
+    - Books
+    - Videos
+  
+  - Containers & Docker
+    - Books
+    - Videos
+  
+  - Cloud & AWS Basics
+    - Books
+    - Videos
