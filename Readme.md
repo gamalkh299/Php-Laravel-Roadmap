@@ -192,6 +192,12 @@
     - Articles
       - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
+  - [Laravel Best Practice](https://github.com/alexeymezenin/laravel-best-practices)
+
+  - Clean Code
+    - Books
+      [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
+
 ---
 
 ## Level 2 (In progress)
