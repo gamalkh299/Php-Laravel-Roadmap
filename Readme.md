@@ -153,6 +153,14 @@
       - [API Design](https://www.amazon.com/RESTful-API-Design-API-University-3/dp/1514735164)
       - [RESTful Web APIs](https://www.oreilly.com/library/view/restful-web-apis/9781449359713/)
 
+  - SOLID:
+    - Videos
+      - [Mohamed Yahya (Arabic)](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3ZtZgJtw5k15CDobtfSNQt)
+      - [Zak H (English)](https://www.youtube.com/watch?v=ARxZV8OZ8Cg&list=PLNuh5_K9dfQ3jMU-2C2jYRGe2iXJkpCZj)
+
+    - Articles
+      - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+
   - Design patterns (Creational and Structural):
     - Videos
       - [Design Patterns on Coursera (creational and structural only)](https://www.coursera.org/learn/design-patterns?specialization=software-design-architecture)
@@ -183,14 +191,6 @@
       - [Unit Testing Principles, Practices, and Patterns by Vladimir Khorikov](https://www.oreilly.com/library/view/unit-testing-principles/9781617296277/)
 
 - ### Extra Reading
-
-  - SOLID
-    - Videos
-      - [Mohamed Yahya (Arabic)](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3ZtZgJtw5k15CDobtfSNQt)
-      - [Zak H (English)](https://www.youtube.com/watch?v=ARxZV8OZ8Cg&list=PLNuh5_K9dfQ3jMU-2C2jYRGe2iXJkpCZj)
-
-    - Articles
-      - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
   - [Laravel Best Practice](https://github.com/alexeymezenin/laravel-best-practices)
 
