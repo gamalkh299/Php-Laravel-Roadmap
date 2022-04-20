@@ -198,6 +198,9 @@
     - Books
       [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
 
+  - Server Deployment
+    - [How to Build and Deploy a Laravel App](https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=4)
+
 ---
 
 ## Level 2 (In progress)
