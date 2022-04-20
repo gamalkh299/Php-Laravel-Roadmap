@@ -52,7 +52,7 @@
     - Videos
       - [Elzero HTML couse 2021 (Arabic)](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
       - [Elzero CSS course 2021 (Arabic)](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
-      - [Elzero Javascript course 2021 (English)](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+      - [Elzero Javascript course 2021 (Arabic)](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 
   - Data Structures (beginner):
     - Videos
@@ -164,8 +164,10 @@
   - Laravel
     - Videos
       - [Laracasts laravel 8](https://laracasts.com/series/laravel-8-from-scratch)
+      - [What is New in Laravel 9](https://laracasts.com/series/whats-new-in-laravel-9)
     - Books
       - [Up & Running 2nd Edition](https://www.oreilly.com/library/view/laravel-up/9781492041207/)
+      
 
 - ### Tools
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0949f1ef-b0c8-4650-a675-8dff4a8b30b5" name="Changes" comment="fix woe">
+    <list default="true" id="0949f1ef-b0c8-4650-a675-8dff4a8b30b5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Resources Collecting.md" beforeDir="false" afterPath="$PROJECT_DIR$/Resources Collecting.md" afterDir="false" />
@@ -26,12 +26,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +44,12 @@
       <workItem from="1647807028318" duration="2374000" />
       <workItem from="1648943820654" duration="980000" />
       <workItem from="1649012519773" duration="46000" />
-      <workItem from="1649031507814" duration="7178000" />
+      <workItem from="1649031507814" duration="7751000" />
+      <workItem from="1649079235560" duration="439000" />
+      <workItem from="1649371671254" duration="1661000" />
+      <workItem from="1650319421466" duration="2573000" />
+      <workItem from="1650371343394" duration="768000" />
+      <workItem from="1650465477865" duration="673000" />
     </task>
     <task id="LOCAL-00001" summary="Add Resources For Some Sections">
       <created>1649035401168</created>
@@ -53,14 +58,33 @@
       <option name="project" value="LOCAL" />
       <updated>1649035401168</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Level 1 resources #1">
+      <created>1649045056502</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649045056502</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Resources For Some Sections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Resources For Some Sections" />
+    <MESSAGE value="Add Level 1 resources #1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Level 1 resources #1" />
   </component>
 </project>
