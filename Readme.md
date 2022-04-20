@@ -105,6 +105,10 @@
     - Videos
       - [Abdallah El Ghamry (Arabic)](https://www.youtube.com/watch?v=xxby7rreUhA&list=PL8PzKiHptEaxCPT-usQ2G-8appO0uTvtu)
       - [Neso Academy (English)](https://www.youtube.com/watch?v=Ol8D69VKX2k&list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q)
+  
+  - Operating Systems:
+    - Books
+      - [Operating Systems: Three Easy Pieces (Free Book)](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ---
 
@@ -167,7 +171,6 @@
       - [What is New in Laravel 9](https://laracasts.com/series/whats-new-in-laravel-9)
     - Books
       - [Up & Running 2nd Edition](https://www.oreilly.com/library/view/laravel-up/9781492041207/)
-      
 
 - ### Tools
 
@@ -179,9 +182,19 @@
     - Books
       - [Unit Testing Principles, Practices, and Patterns by Vladimir Khorikov](https://www.oreilly.com/library/view/unit-testing-principles/9781617296277/)
 
+- ### Extra Reading
+
+  - SOLID
+    - Videos
+      - [Mohamed Yahya (Arabic)](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3ZtZgJtw5k15CDobtfSNQt)
+      - [Zak H (English)](https://www.youtube.com/watch?v=ARxZV8OZ8Cg&list=PLNuh5_K9dfQ3jMU-2C2jYRGe2iXJkpCZj)
+
+    - Articles
+      - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+
 ---
 
-## Level 2
+## Level 2 (In progress)
 
 - ### Topics
 
@@ -204,3 +217,7 @@
   - Cloud & AWS Basics
     - Books
     - Videos
+
+- ### Extra Reading
+
+  - Network Socket
