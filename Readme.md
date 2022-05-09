@@ -7,7 +7,7 @@
 
 ## preface
 
-- We will use PHP as a programming language, MySQL as SQL engine and Laravel as a framework
+- We will use PHP as a programming language, MySQL as an SQL engine and Laravel as a framework
 - The roadmap consists of 3 levels
 - Every level will contain:
   - Topics
@@ -22,20 +22,6 @@
 ---
 
 ## Prerequisites
-
-- Programming with C# (Basics):
-  - Videos
-    - [C# for biggeners hassouna academy (Arabic)](https://www.youtube.com/watch?v=q7_qSBw8FEY&list=PLHIfW1KZRIfm8nQAoJF5u2aV43tMRAAmr)
-    - [C# Crash course from CodeCademy (English)](https://www.youtube.com/watch?v=GhQdlIFylQ8)
-    - [C# Crash course with Mosh](https://www.youtube.com/watch?v=GhQdlIFylQ8)
-
-- OOP (in C#):
-  - Videos
-    - [Hassouna Academy (Arabic)](https://www.youtube.com/watch?v=KAWY-8wFKRc&list=PLHIfW1KZRIfl6UP-PlUli03pokSc4af2S)
-    - [Barmej (Arabic)](https://www.youtube.com/watch?v=rModMTu7_LY&list=PLkIliLHi5M4KANvzDWXsbfn52Z7vEBU-n)
-    - [The new Baghdad](https://www.youtube.com/watch?v=N3CXL3IStfY&list=PLF8OvnCBlEY0UEgX-PDJduL5Tyv4Estam)
-  - Books:
-    - [Beginning C# Object-Oriented Programming, Second Edition](https://www.oreilly.com/library/view/beginning-c-object-oriented/9781430249351/)
   
 - CS50:
   - Videos
@@ -44,7 +30,7 @@
 
 ---
 
-## Level 0
+## Level 1
 
 - ### Topics
 
@@ -53,6 +39,27 @@
       - [Elzero HTML couse 2021 (Arabic)](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
       - [Elzero CSS course 2021 (Arabic)](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
       - [Elzero Javascript course 2021 (Arabic)](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+
+  - PHP:
+    - Videos:
+      - [Laracasts](https://laracasts.com/series/php-for-beginners)
+      - [Elzero (Arabic)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
+      - [PHP Laracast](https://laracasts.com/series/php-for-beginners )
+      - [What's New in PHP 7.4](https://laracasts.com/series/whats-new-in-php-74)
+      - [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
+      - [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/2)
+
+    - Books:
+      - [Programming PHP, 4th Edition](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
+      - [PHP Notes for Professionals (Free Book)](https://books.goalkicker.com/PHPBook/)
+
+  - OOP (in PHP):
+    - Videos
+      - [Hassouna Academy (Arabic)](https://www.youtube.com/watch?v=KAWY-8wFKRc&list=PLHIfW1KZRIfl6UP-PlUli03pokSc4af2S)
+      - [Barmej (Arabic)](https://www.youtube.com/watch?v=rModMTu7_LY&list=PLkIliLHi5M4KANvzDWXsbfn52Z7vEBU-n)
+      - [The new Baghdad](https://www.youtube.com/watch?v=N3CXL3IStfY&list=PLF8OvnCBlEY0UEgX-PDJduL5Tyv4Estam)
+    - Books:
+      - [Beginning C# Object-Oriented Programming, Second Edition](https://www.oreilly.com/library/view/beginning-c-object-oriented/9781430249351/)
 
   - Data Structures (beginner):
     - Videos
@@ -66,13 +73,6 @@
       - [Ebrahem Hegazy, start with the 15th video (Arabic)](https://www.youtube.com/watch?v=PsdimP_-TKY)
       - [The Client Server Architecture from The TechCave](https://www.youtube.com/watch?v=L5BlpPU_muY)
       - [The Client Server Architecture from  Mac OS Pro](https://www.youtube.com/watch?v=Zfmk0GtANNs)
-
-  - UML Diagram:
-    - Videos
-      - [Freecodecamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
-
-    - Books
-      - [UML Distilled 3rd Ed](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
 
 - ### Tools
 
@@ -112,30 +112,9 @@
 
 ---
 
-## Level 1
+## Level 2
 
 - ### Topics
-
-  - PHP:
-    - Videos:
-      - [Laracasts](https://laracasts.com/series/php-for-beginners)
-      - [Elzero (Arabic)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
-      - [PHP Laracast](https://laracasts.com/series/php-for-beginners )
-      - [What's New in PHP 7.4](https://laracasts.com/series/whats-new-in-php-74)
-      - [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
-      - [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/2)
-
-    - Books:
-      - [Programming PHP, 4th Edition](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
-      - [PHP Notes for Professionals (Free Book)](https://books.goalkicker.com/PHPBook/)
-
-  - SQL:
-    - Videos
-      - [FreeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY)
-      - [The New Baghdad MYSQL (Arabic)](https://www.youtube.com/watch?v=Apq8FuGNODM&list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2)
-    - Books
-      - [MySQL Notes for Professionals (Free Book)](https://books.goalkicker.com/MySQLBook/)
-      - [Learn SQL (using MySQL) in One Day and Learn It Well](https://www.amazon.com/SQL-Beginners-Hands-Project-Project/dp/1731039662?_encoding=UTF8&qid=1628268685&sr=1-9&linkCode=sl1&tag=solutionsre04-20&linkId=6dfcf2bfc4e95af8907fd157b8e78e2c&language=en_US&ref_=as_li_ss_tl)
 
   - Database Design:
     - Videos
@@ -144,6 +123,14 @@
       - [Database Design on Udemy (English)](https://www.udemy.com/course/database-design-and-management/)]
     - Books
       - [Database Design for Mere Mortals](https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0201752840)
+
+  - SQL:
+    - Videos
+      - [FreeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+      - [The New Baghdad MYSQL (Arabic)](https://www.youtube.com/watch?v=Apq8FuGNODM&list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2)
+    - Books
+      - [MySQL Notes for Professionals (Free Book)](https://books.goalkicker.com/MySQLBook/)
+      - [Learn SQL (using MySQL) in One Day and Learn It Well](https://www.amazon.com/SQL-Beginners-Hands-Project-Project/dp/1731039662?_encoding=UTF8&qid=1628268685&sr=1-9&linkCode=sl1&tag=solutionsre04-20&linkId=6dfcf2bfc4e95af8907fd157b8e78e2c&language=en_US&ref_=as_li_ss_tl)
 
   - API
     - Videos:
@@ -160,6 +147,12 @@
 
     - Articles
       - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+
+  - UML Diagram:
+    - Videos
+      - [Freecodecamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
+    - Books
+      - [UML Distilled 3rd Ed](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
 
   - Design patterns (Creational and Structural):
     - Videos
@@ -206,7 +199,7 @@
 
 ---
 
-## Level 2 (In progress)
+## Level 3 (In progress)
 
 - ### Topics
 
