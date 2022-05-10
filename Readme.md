@@ -35,6 +35,13 @@
 
 - ### Topics
 
+  - Network basic & HTTP: 1 week
+    - Videos:
+      - [HTTP Crash Course & Exploration from  Traversy Media (English)](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+      - [Ebrahem Hegazy, start with the 15th video (Arabic)](https://www.youtube.com/watch?v=PsdimP_-TKY)
+      - [The Client Server Architecture from The TechCave](https://www.youtube.com/watch?v=L5BlpPU_muY)
+      - [The Client Server Architecture from  Mac OS Pro](https://www.youtube.com/watch?v=Zfmk0GtANNs)
+
   - HTML/CSS/Javascript: 4 weeks
     - Videos
       - [Elzero HTML couse 2021 (Arabic)](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
@@ -55,6 +62,12 @@
       - [PHP Notes for Professionals (Free Book)](https://books.goalkicker.com/PHPBook/)
       - [PHP Cookbook, 3rd Edition](https://www.oreilly.com/library/view/php-cookbook-3rd/9781449363741/)
 
+  - UML Diagram: 1 week
+    - Videos
+      - [Freecodecamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
+    - Books
+      - [UML Distilled 3rd Ed](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
+
   - OOP (in PHP): 2 weeks
     - Videos
       - [Dani Krossing](https://www.youtube.com/watch?v=Anz0ArcQ5kI&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
@@ -62,19 +75,13 @@
     - Books
       - [PHP Object-Oriented Solutions](https://www.amazon.com/gp/product/1430210117/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430210117&linkCode=as2&tag=tech4sky-20)
 
+  - Design patterns (Creational and Structural): 2 weeks
 
   - Data Structures (beginner): 2 weeks
     - Videos
       - [Adel Naseem (Arabic)](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
     - Books
       - [Introductino to Algorithms (Chapters 10 to 14 only)](https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition)
-
-  - Network basic & HTTP: 1 week
-    - Videos:
-      - [HTTP Crash Course & Exploration from  Traversy Media (English)](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
-      - [Ebrahem Hegazy, start with the 15th video (Arabic)](https://www.youtube.com/watch?v=PsdimP_-TKY)
-      - [The Client Server Architecture from The TechCave](https://www.youtube.com/watch?v=L5BlpPU_muY)
-      - [The Client Server Architecture from  Mac OS Pro](https://www.youtube.com/watch?v=Zfmk0GtANNs)
 
 - ### Tools
 
@@ -150,13 +157,6 @@
     - Articles
       - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
-  - UML Diagram: 1 week
-    - Videos
-      - [Freecodecamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
-    - Books
-      - [UML Distilled 3rd Ed](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
-
-  - Design patterns (Creational and Structural): 2 weeks
     - Videos
       - [Design Patterns on Coursera (creational and structural only)](https://www.coursera.org/learn/design-patterns?specialization=software-design-architecture)
       - [Design Patterns in PHP -arabic ](https://www.youtube.com/playlist?list=PLdYYj2XLw5BnpInmR103TyVwFd_CLI6IS)
