@@ -9,7 +9,7 @@
 
 - We will use PHP as a programming language, MySQL as an SQL engine and Laravel as a framework
 - The roadmap consists of 3 levels
-- Every level will contain:
+- Every level contains:
   - Topics
   - Tools
   - Assignments (tasks and projects)
@@ -23,6 +23,7 @@
 
 ## Prerequisites
   
+- Programming with any language
 - CS50:
   - Videos
     - [CS50 on EDX (English)](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
@@ -34,14 +35,14 @@
 
 - ### Topics
 
-  - HTML/CSS/Javascript
+  - HTML/CSS/Javascript: 4 weeks
     - Videos
       - [Elzero HTML couse 2021 (Arabic)](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
       - [Elzero CSS course 2021 (Arabic)](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
       - [Elzero Javascript course 2021 (Arabic)](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 
-  - PHP:
-    - Videos:
+  - PHP: 5 weeks
+    - Videos
       - [Laracasts](https://laracasts.com/series/php-for-beginners)
       - [Elzero (Arabic)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
       - [PHP Laracast](https://laracasts.com/series/php-for-beginners )
@@ -49,25 +50,26 @@
       - [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
       - [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/2)
 
-    - Books:
+    - Books
       - [Programming PHP, 4th Edition](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
       - [PHP Notes for Professionals (Free Book)](https://books.goalkicker.com/PHPBook/)
+      - [PHP Cookbook, 3rd Edition](https://www.oreilly.com/library/view/php-cookbook-3rd/9781449363741/)
 
-  - OOP (in PHP):
+  - OOP (in PHP): 2 weeks
     - Videos
-      - [Hassouna Academy (Arabic)](https://www.youtube.com/watch?v=KAWY-8wFKRc&list=PLHIfW1KZRIfl6UP-PlUli03pokSc4af2S)
-      - [Barmej (Arabic)](https://www.youtube.com/watch?v=rModMTu7_LY&list=PLkIliLHi5M4KANvzDWXsbfn52Z7vEBU-n)
-      - [The new Baghdad](https://www.youtube.com/watch?v=N3CXL3IStfY&list=PLF8OvnCBlEY0UEgX-PDJduL5Tyv4Estam)
-    - Books:
-      - [Beginning C# Object-Oriented Programming, Second Edition](https://www.oreilly.com/library/view/beginning-c-object-oriented/9781430249351/)
+      - [Dani Krossing](https://www.youtube.com/watch?v=Anz0ArcQ5kI&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
+      - [Gary Clarke](https://www.youtube.com/watch?v=NyRWaQo1pZo)
+    - Books
+      - [PHP Object-Oriented Solutions](https://www.amazon.com/gp/product/1430210117/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430210117&linkCode=as2&tag=tech4sky-20)
 
-  - Data Structures (beginner):
+
+  - Data Structures (beginner): 2 weeks
     - Videos
       - [Adel Naseem (Arabic)](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
     - Books
       - [Introductino to Algorithms (Chapters 10 to 14 only)](https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition)
 
-  - Network basic & HTTP:
+  - Network basic & HTTP: 1 week
     - Videos:
       - [HTTP Crash Course & Exploration from  Traversy Media (English)](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
       - [Ebrahem Hegazy, start with the 15th video (Arabic)](https://www.youtube.com/watch?v=PsdimP_-TKY)
@@ -76,17 +78,17 @@
 
 - ### Tools
 
-  - Code Editors:
+  - Code Editors: 1 day
     - VS Code
       - Videos
         - [FreeCodeCamp (English)](https://www.youtube.com/watch?v=WPqXP_kLzpo)
         - [LaraCasts (Advanced)](https://laracasts.com/series/visual-studio-code-for-php-developers)
 
-    - PHP Storm
-      - Videos:
+    - PHP Storm:
+      - Videos
         - [LaraCasts (English)](https://laracasts.com/series/how-to-be-awesome-in-phpstorm)
 
-  - Git:
+  - Git: 1 week
     - Videos
       - [Git from Elzero web school (Arabic)](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
       - [Git & Github from Codecademy (English)](https://www.youtube.com/watch?v=RGOj5yH7evk)
@@ -116,7 +118,7 @@
 
 - ### Topics
 
-  - Database Design:
+  - Database Design: 3 weeks
     - Videos
       - [Aldesoky (Arabic)](https://www.youtube.com/playlist?list=PL37D52B7714788190)
       - [FreeCodeCamp (English)](https://www.youtube.com/watch?v=ztHopE5Wnpc)
@@ -124,7 +126,7 @@
     - Books
       - [Database Design for Mere Mortals](https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0201752840)
 
-  - SQL:
+  - SQL: 1 week
     - Videos
       - [FreeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY)
       - [The New Baghdad MYSQL (Arabic)](https://www.youtube.com/watch?v=Apq8FuGNODM&list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2)
@@ -132,7 +134,7 @@
       - [MySQL Notes for Professionals (Free Book)](https://books.goalkicker.com/MySQLBook/)
       - [Learn SQL (using MySQL) in One Day and Learn It Well](https://www.amazon.com/SQL-Beginners-Hands-Project-Project/dp/1731039662?_encoding=UTF8&qid=1628268685&sr=1-9&linkCode=sl1&tag=solutionsre04-20&linkId=6dfcf2bfc4e95af8907fd157b8e78e2c&language=en_US&ref_=as_li_ss_tl)
 
-  - API
+  - API: 1 week
     - Videos:
       - [REST API Crash Course - Caleb Curry](https://www.youtube.com/watch?v=qbLc5a9jdXo)
       - [REST API with PHP - ProgrammingKnowledge](https://www.youtube.com/watch?v=2EJ03wM0erI&list=PLS1QulWo1RIYWjdoEC1WbT8W3XGGWVXfW)
@@ -140,7 +142,7 @@
       - [API Design](https://www.amazon.com/RESTful-API-Design-API-University-3/dp/1514735164)
       - [RESTful Web APIs](https://www.oreilly.com/library/view/restful-web-apis/9781449359713/)
 
-  - SOLID:
+  - SOLID: 2 weeks
     - Videos
       - [Mohamed Yahya (Arabic)](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3ZtZgJtw5k15CDobtfSNQt)
       - [Zak H (English)](https://www.youtube.com/watch?v=ARxZV8OZ8Cg&list=PLNuh5_K9dfQ3jMU-2C2jYRGe2iXJkpCZj)
@@ -148,13 +150,13 @@
     - Articles
       - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
-  - UML Diagram:
+  - UML Diagram: 1 week
     - Videos
       - [Freecodecamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
     - Books
       - [UML Distilled 3rd Ed](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
 
-  - Design patterns (Creational and Structural):
+  - Design patterns (Creational and Structural): 2 weeks
     - Videos
       - [Design Patterns on Coursera (creational and structural only)](https://www.coursera.org/learn/design-patterns?specialization=software-design-architecture)
       - [Design Patterns in PHP -arabic ](https://www.youtube.com/playlist?list=PLdYYj2XLw5BnpInmR103TyVwFd_CLI6IS)
@@ -166,7 +168,7 @@
     - ِArticles
       - [Design Patterns in PHP - good Resource as documentation ](https://refactoring.guru/design-patterns)
   
-  - Laravel
+  - Laravel: 4 weeks
     - Videos
       - [Laracasts laravel 8](https://laracasts.com/series/laravel-8-from-scratch)
       - [What is New in Laravel 9](https://laracasts.com/series/whats-new-in-laravel-9)
@@ -175,7 +177,7 @@
 
 - ### Tools
 
-  - Unit testing:
+  - Unit testing: 1 week
     - Videos
       - [Software Quality Academy (Arabic)](https://www.youtube.com/watch?v=FHVOvMiZcAk&list=PLQUxWr2rTswlHvRSphLEB0KU72w6dZzbq)
       - [FizzixGeke](https://www.youtube.com/watch?v=5QGs2DwlR-A&list=PLD9spk7mcCaVGpGjXSfQJJci8G7nwVF4O)
