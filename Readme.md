@@ -75,8 +75,6 @@
     - Books
       - [PHP Object-Oriented Solutions](https://www.amazon.com/gp/product/1430210117/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430210117&linkCode=as2&tag=tech4sky-20)
 
-  - Design patterns (Creational and Structural): 2 weeks
-
   - Data Structures (beginner): 2 weeks
     - Videos
       - [Adel Naseem (Arabic)](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
