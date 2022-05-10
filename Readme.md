@@ -62,6 +62,12 @@
       - [PHP Notes for Professionals (Free Book)](https://books.goalkicker.com/PHPBook/)
       - [PHP Cookbook, 3rd Edition](https://www.oreilly.com/library/view/php-cookbook-3rd/9781449363741/)
 
+  - UML Diagram: 1 week
+    - Videos
+      - [Freecodecamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
+    - Books
+      - [UML Distilled 3rd Ed](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
+
   - OOP (in PHP): 2 weeks
     - Videos
       - [Dani Krossing](https://www.youtube.com/watch?v=Anz0ArcQ5kI&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
@@ -69,6 +75,7 @@
     - Books
       - [PHP Object-Oriented Solutions](https://www.amazon.com/gp/product/1430210117/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430210117&linkCode=as2&tag=tech4sky-20)
 
+  - Design patterns (Creational and Structural): 2 weeks
 
   - Data Structures (beginner): 2 weeks
     - Videos
@@ -150,13 +157,6 @@
     - Articles
       - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
-  - UML Diagram: 1 week
-    - Videos
-      - [Freecodecamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
-    - Books
-      - [UML Distilled 3rd Ed](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
-
-  - Design patterns (Creational and Structural): 2 weeks
     - Videos
       - [Design Patterns on Coursera (creational and structural only)](https://www.coursera.org/learn/design-patterns?specialization=software-design-architecture)
       - [Design Patterns in PHP -arabic ](https://www.youtube.com/playlist?list=PLdYYj2XLw5BnpInmR103TyVwFd_CLI6IS)
