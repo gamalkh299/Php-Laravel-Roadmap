@@ -48,7 +48,7 @@
       - [Elzero CSS course 2021 (Arabic)](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
       - [Elzero Javascript course 2021 (Arabic)](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 
-  - UML Diagram: 1 week
+- UML Diagram: 1 week
     - Videos
       - [Freecodecamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
     - Books
@@ -157,6 +157,7 @@
     - Articles
       - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
+  - Design patterns (Creational and Structural): 2 weeks
     - Videos
       - [Design Patterns on Coursera (creational and structural only)](https://www.coursera.org/learn/design-patterns?specialization=software-design-architecture)
       - [Design Patterns in PHP -arabic ](https://www.youtube.com/playlist?list=PLdYYj2XLw5BnpInmR103TyVwFd_CLI6IS)
