@@ -48,6 +48,12 @@
       - [Elzero CSS course 2021 (Arabic)](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
       - [Elzero Javascript course 2021 (Arabic)](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 
+  - UML Diagram: 1 week
+    - Videos
+      - [Freecodecamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
+    - Books
+      - [UML Distilled 3rd Ed](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
+
   - PHP: 5 weeks
     - Videos
       - [Laracasts](https://laracasts.com/series/php-for-beginners)
@@ -61,12 +67,6 @@
       - [Programming PHP, 4th Edition](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
       - [PHP Notes for Professionals (Free Book)](https://books.goalkicker.com/PHPBook/)
       - [PHP Cookbook, 3rd Edition](https://www.oreilly.com/library/view/php-cookbook-3rd/9781449363741/)
-
-  - UML Diagram: 1 week
-    - Videos
-      - [Freecodecamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
-    - Books
-      - [UML Distilled 3rd Ed](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
 
   - OOP (in PHP): 2 weeks
     - Videos
