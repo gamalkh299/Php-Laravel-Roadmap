@@ -49,37 +49,37 @@
       - [Elzero Javascript course 2021 (Arabic)](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 
 - UML Diagram: 1 week
-    - Videos
-      - [Freecodecamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
-    - Books
-      - [UML Distilled 3rd Ed](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
+  - Videos
+    - [Freecodecamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
+  - Books
+    - [UML Distilled 3rd Ed](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
 
-  - PHP: 5 weeks
-    - Videos
-      - [Laracasts](https://laracasts.com/series/php-for-beginners)
-      - [Elzero (Arabic)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
-      - [PHP Laracast](https://laracasts.com/series/php-for-beginners )
-      - [What's New in PHP 7.4](https://laracasts.com/series/whats-new-in-php-74)
-      - [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
-      - [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/2)
+- PHP: 5 weeks
+  - Videos
+    - [Laracasts](https://laracasts.com/series/php-for-beginners)
+    - [Elzero (Arabic)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
+    - [PHP Laracast](https://laracasts.com/series/php-for-beginners )
+    - [What's New in PHP 7.4](https://laracasts.com/series/whats-new-in-php-74)
+    - [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
+    - [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/2)
 
-    - Books
-      - [Programming PHP, 4th Edition](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
-      - [PHP Notes for Professionals (Free Book)](https://books.goalkicker.com/PHPBook/)
-      - [PHP Cookbook, 3rd Edition](https://www.oreilly.com/library/view/php-cookbook-3rd/9781449363741/)
+  - Books
+    - [Programming PHP, 4th Edition](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
+    - [PHP Notes for Professionals (Free Book)](https://books.goalkicker.com/PHPBook/)
+    - [PHP Cookbook, 3rd Edition](https://www.oreilly.com/library/view/php-cookbook-3rd/9781449363741/)
 
-  - OOP (in PHP): 2 weeks
-    - Videos
-      - [Dani Krossing](https://www.youtube.com/watch?v=Anz0ArcQ5kI&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
-      - [Gary Clarke](https://www.youtube.com/watch?v=NyRWaQo1pZo)
-    - Books
-      - [PHP Object-Oriented Solutions](https://www.amazon.com/gp/product/1430210117/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430210117&linkCode=as2&tag=tech4sky-20)
+- OOP (in PHP): 2 weeks
+  - Videos
+    - [Dani Krossing](https://www.youtube.com/watch?v=Anz0ArcQ5kI&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
+    - [Gary Clarke](https://www.youtube.com/watch?v=NyRWaQo1pZo)
+  - Books
+    - [PHP Object-Oriented Solutions](https://www.amazon.com/gp/product/1430210117/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430210117&linkCode=as2&tag=tech4sky-20)
 
-  - Data Structures (beginner): 2 weeks
-    - Videos
-      - [Adel Naseem (Arabic)](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
-    - Books
-      - [Introductino to Algorithms (Chapters 10 to 14 only)](https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition)
+- Data Structures (beginner): 2 weeks
+  - Videos
+    - [Adel Naseem (Arabic)](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+  - Books
+    - [Introductino to Algorithms (Chapters 10 to 14 only)](https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition)
 
 - ### Tools
 
@@ -158,14 +158,14 @@
   - Design patterns (Creational and Structural): 2 weeks
     - Videos
       - [Design Patterns on Coursera (creational and structural only)](https://www.coursera.org/learn/design-patterns?specialization=software-design-architecture)
-      - [Design Patterns in PHP -arabic ](https://www.youtube.com/playlist?list=PLdYYj2XLw5BnpInmR103TyVwFd_CLI6IS)
-      - [Design Patterns in PHP - Arabic - Moahmed yehya ](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC)
+      - [Design Patterns in PHP -arabic](https://www.youtube.com/playlist?list=PLdYYj2XLw5BnpInmR103TyVwFd_CLI6IS)
+      - [Design Patterns in PHP - Arabic - Moahmed yehya](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC)
 
     - Books
-      - [Design Patterns in PHP - Book ](https://drive.google.com/file/d/1BmXIGt6CaMig1qXiqETQI5y3wsmh4N1z/view)
+      - [Design Patterns in PHP - Book](https://drive.google.com/file/d/1BmXIGt6CaMig1qXiqETQI5y3wsmh4N1z/view)
 
     - ِArticles
-      - [Design Patterns in PHP - good Resource as documentation ](https://refactoring.guru/design-patterns)
+      - [Design Patterns in PHP - good Resource as documentation](https://refactoring.guru/design-patterns)
   
   - Laravel: 4 weeks
     - Videos
